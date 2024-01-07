@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hata_Yakalama(Exception)", "Hata_Yakalama(Exception)\Hata_Yakalama(Exception).csproj", "{59FE61C2-55C8-49F3-8D6A-1163FD9A926C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hata_Yakalama(Exception)", "Hata_Yakalama(Exception)\Hata_Yakalama(Exception).csproj", "{59FE61C2-55C8-49F3-8D6A-1163FD9A926C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatchFinally", "TryCatchFinally\TryCatchFinally.csproj", "{C27E57B1-3128-40DA-AC73-A0CC4AF1F54A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{59FE61C2-55C8-49F3-8D6A-1163FD9A926C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59FE61C2-55C8-49F3-8D6A-1163FD9A926C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59FE61C2-55C8-49F3-8D6A-1163FD9A926C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C27E57B1-3128-40DA-AC73-A0CC4AF1F54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C27E57B1-3128-40DA-AC73-A0CC4AF1F54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C27E57B1-3128-40DA-AC73-A0CC4AF1F54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C27E57B1-3128-40DA-AC73-A0CC4AF1F54A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

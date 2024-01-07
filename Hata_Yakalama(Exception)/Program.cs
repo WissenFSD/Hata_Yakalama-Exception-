@@ -60,6 +60,8 @@ int sayi2 = 0;
 
 try
 {
+
+
         //bu yöntem ile kendimiz exception üretebiliyoruz !!!
         throw new InvalidOperationException("invalid operation");
 
